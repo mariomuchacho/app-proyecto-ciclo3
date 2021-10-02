@@ -3,7 +3,7 @@
 Proyecto Misión TIC 2022. Grupo 5. Integrantes: Yonier, Nelson, Yeisson y Mario.
 Profesor: scadavidg@unal.edu.co
 
-SPRINT 2
+ SPRINT 2
 
 - Grupo 5
 - Integrantes: Mario Muchacho, Yonier Nañez, Nelson Jimenez, Yeisson Diaz
