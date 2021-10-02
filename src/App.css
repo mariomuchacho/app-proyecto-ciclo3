@@ -1,3 +1,8 @@
+body{
+	font-family: arial, helvetica;
+	background-color:rgb(79, 150, 167) ;
+}
+
 .App {
   text-align: center;
 }
@@ -21,7 +26,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: blueviolet;
 }
 
 .App-link {
@@ -36,3 +41,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #3117c5;
+	width: 70%;
+	max-width: 1100px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #1bca1b;
+}
+
