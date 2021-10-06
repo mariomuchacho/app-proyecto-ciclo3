@@ -22,7 +22,7 @@ const Navbar = () => {
                   <Link to="/GestionUsuarios">Vendedores</Link>
                 </li>
               </ul>
-              <button className="nav-item">
+              <button className="nav-item btn btn-success">
                 <Link to="/RegistroVentas">Nueva venta</Link>
               </button>
             </div>

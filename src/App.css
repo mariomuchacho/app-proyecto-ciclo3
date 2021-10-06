@@ -24,3 +24,11 @@
 .imglogo {
   max-height: 4rem;
 }
+
+.nav-item {
+  margin-left: 5rem;
+}
+
+.nav-item {
+  text-decoration: none;
+}
