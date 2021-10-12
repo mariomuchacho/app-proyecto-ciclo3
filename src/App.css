@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 .cuerpo {
   margin-top: 2%;
   display: flex;
   justify-content: center;
+=======
+body{
+	font-family: arial, helvetica;
+	background-color:rgb(79, 150, 167) ;
+}
+
+.App {
+  text-align: center;
+>>>>>>> component_usuarios
 }
 
 .contenedorizq {
@@ -12,6 +22,7 @@
   margin-left: 2%;
 }
 
+<<<<<<< HEAD
 .display-4 {
   text-align: center;
   margin-top: 2%;
@@ -19,6 +30,17 @@
 
 .espacio {
   margin-top: 5%;
+=======
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: blueviolet;
+>>>>>>> component_usuarios
 }
 
 .imglogo {
@@ -29,6 +51,35 @@
   margin-left: 5rem;
 }
 
+<<<<<<< HEAD
 .nav-item {
   text-decoration: none;
 }
+=======
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #3117c5;
+	width: 70%;
+	max-width: 1100px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #1bca1b;
+}
+
+>>>>>>> component_usuarios
